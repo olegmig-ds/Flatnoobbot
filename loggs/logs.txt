@@ -1,0 +1,24 @@
+
+[INFO]
+MODULE: C:\Users\mig29fulcrum\AppData\Roaming\Python\Python310\site-packages\aiogram\utils\executor.py
+LINE: 362
+TIME: 24.02.2023 16:10:10
+MESSAGE: Bot: Flatnoob [@Flatnoobbot]
+
+[INFO]
+MODULE: C:\Users\mig29fulcrum\AppData\Roaming\Python\Python310\site-packages\aiogram\dispatcher\dispatcher.py
+LINE: 358
+TIME: 24.02.2023 16:10:10
+MESSAGE: Start polling.
+
+[INFO]
+MODULE: C:\Users\mig29fulcrum\AppData\Roaming\Python\Python310\site-packages\aiogram\dispatcher\dispatcher.py
+LINE: 433
+TIME: 24.02.2023 16:11:08
+MESSAGE: Stop polling...
+
+[WARNING]
+MODULE: C:\Users\mig29fulcrum\AppData\Roaming\Python\Python310\site-packages\aiogram\utils\executor.py
+LINE: 329
+TIME: 24.02.2023 16:11:08
+MESSAGE: Goodbye!
